@@ -1,8 +1,8 @@
 <div align="center"><img src="https://github.com/masterweb801/Sayl/blob/main/icon.ico?raw=true" /></div>
 
-# HiFied
+# SAYL
 
-Its a software to find forgotten wifi passwords which are previously connected to system
+SAYL is an advanced text-to-speech software that effortlessly converts written text into realistic, high-quality speech. It provides users with multiple natural-sounding male and female voices, making it easy to generate professional-grade audio in just a few clicks.
 
 #### Key Fetures
 
