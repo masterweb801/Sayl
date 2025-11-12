@@ -32,4 +32,4 @@ SAYL is an advanced text-to-speech software that effortlessly converts written t
 
 #### Download
 
-* [Click Here To Download For Windows](https://github.com/masterweb801/Sayl/blob/main/output/Sayl.msi?raw=true)
+* [Click Here To Download For Windows](https://github.com/masterweb801/Sayl/raw/refs/heads/main/output/Sayl.msi)
